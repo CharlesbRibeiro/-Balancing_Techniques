@@ -25,7 +25,7 @@ Caso o leitor tenha o desejo de executar esse projeto em sua maquina, você deve
 ## Arquivos do projeto
 
 * `Over_Under.R`: Script atraves da linguagem R
-* 'creditcard.csv' : Base de dados creditcard em formato csv
+* `creditcard.csv` : Base de dados creditcard em formato csv
 
 ## Origem dos dados
 
