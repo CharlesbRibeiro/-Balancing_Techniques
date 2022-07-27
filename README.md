@@ -9,6 +9,12 @@
 
 ## Pré-requesitos
 
-Caso o leitor tenha o desejo de executar esse projeto em sua maquina, você deve realizar os segintes passos listados abaixo.
+Caso o leitor tenha o desejo de executar esse projeto em sua maquina, você deve realizar os seguintes passos listados abaixo.
 
-* R 
+* Instalar o `software R`
+* Necessario uma conta na plataforma (ou site ) `Kaggle`, caso o leitor tenha interesse em verificar a origem dos dados
+
+## Arquivos do projeto
+
+* `Over_Under.R`: Script atraves da linguagem R
+* 'creditcard.csv' : Base de dados creditcard em formato csv
