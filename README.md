@@ -20,12 +20,12 @@ Caso o leitor tenha o desejo de executar esse projeto em sua maquina, você deve
 
 * Instalar o `software R`
 * Sera necessario a instalação de bibliotecas (ou Pacotes) presente no script `Over_Under.R` 
-* Necessario uma conta na plataforma (ou site ) `Kaggle`, caso o leitor tenha interesse em verificar a origem dos dados
+* Necessário uma conta na plataforma (ou site ) `Kaggle`, caso o leitor tenha interesse em fazer o download do conjunto de dados. O link para download encontra-se no final dessa pagina. 
 
 ## Arquivos do projeto
 
 * `Over_Under.R`: Script atraves da linguagem R
-* `creditcard.csv` : Base de dados creditcard em formato csv
+
 
 ## Origem dos dados
 
