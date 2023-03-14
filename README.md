@@ -1,3 +1,40 @@
+ENGLISH VERSION (Texto em Português abaixo)
+
+# FRAUD DETECTION DATA BALANCING TECHNIQUES
+
+
+# Dataset context
+
+
+* It is important for credit card companies to be able to recognize fraudulent credit card transactions so that customers are not charged for items they did not purchase.
+
+* The dataset contains credit card transactions made in September 2013 by European cardholders. This dataset features transactions that took place over two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) accounts for 0.172% of all transactions.
+
+# Project content
+
+* **This work** investigates four data balancing techniques, using a decision tree classification algorithm and a public database, Credit-Fraud, from the Kaggle repository, with records of financial transactions with and without fraud . The performance of the techniques was measured through their ROC curves. All investigated methods led the classification algorithm to have a superior performance in relation to its performance when applied to the original base without treatment, that is, without balancing. Thus, the effectiveness of these techniques was proven, which can then be applied in the solution of relevant real problems.
+
+## Prerequisites
+
+If the reader has the desire to run this project on his machine, he must perform the following steps listed below.
+
+* Install the `software R`
+* It will be necessary to install libraries (or packages) present in the `Over_Under.R` script
+* An account on the `Kaggle` platform (or website) is required if the reader is interested in downloading the data set. The download link is at the end of this page.
+
+## Project files
+
+* `Over_Under.R`: Script using the R language
+
+
+## Data source
+
+* https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
+Versão em Português
+
+
 # TÉCNICAS DE BALANCEAMENTO DE DADOS DA DETECÇÃO DE FRAUDES
 
 
